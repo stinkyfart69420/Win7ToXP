@@ -1,0 +1,15 @@
+
+ - Open ZIP folder, extract "XP_Shutdown" folder to location of your choice (C: drive works). If you're reading this, you have at least opened the ZIP folder :)
+
+ - Right-click "create shortcut" for "XP_Logoff" and "XP_Shutdown" files, place shortcuts wherever you want (don't move original files).
+
+ - "XP_Settings" change language, check for updates, and other options
+
+
+ If you are using OpenShell, read their instructions at GitHub to link the menus into your Start menu (great for XP theme)
+
+
+
+ ***May 27 2021 NOTE: Some antivirus companies like to call this thing "potentially risky". I've challenged three antivirus companies
+and I won. But I don't know about all of them... if your antivirus tries to label this software "risky", you can safely
+make an exception. Please report it to me at blackwidowfarms@hotmail.com thanks very much :)

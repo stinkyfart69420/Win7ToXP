@@ -1,0 +1,4 @@
+
+ - waits 1000ms (happens anyway, while processing screenshot)
+ - fades for 4000ms total, behind main menu GUI
+ - uses 12 to 14 fade increments (300 - 350ms per increment?)
