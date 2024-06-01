@@ -8,5 +8,9 @@ IMAGE
 
 This themepack attempts to replicate the look of Windows XP.
 
-# MORE INFO COMING SOON
+# NOTE: DISABLE YOUR ANTIVIRUS BEFORE DOWNLOADING!!!
+
+# MORE COMING SOON
+
+
  
